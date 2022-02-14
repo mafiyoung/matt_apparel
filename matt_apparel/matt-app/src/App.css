@@ -2,3 +2,8 @@ body {
     font-family: 'Source Code Pro';
     padding: 20px 60px;
 }
+
+a {
+    text-decoration: none;
+    color: black;
+}
