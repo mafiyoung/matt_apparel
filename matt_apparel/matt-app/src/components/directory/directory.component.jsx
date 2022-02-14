@@ -11,10 +11,10 @@ class Directory extends React.Component {
         this.state = {
          sections: [
         {
-            title: 'hats',
+            title: 'kids',
             imageUrl: 'https://i5.walmartimages.com/asr/964cfed0-555f-4650-b9b7-b709788514ba.d97d716cf263b34c1408ebbc0cdb4206.jpeg',
             id: 1,
-            linkUrl: 'hats'
+            linkUrl: 'kids'
 
         },
         {
